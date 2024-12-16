@@ -19,7 +19,7 @@ body{
     max-width: 1600px;
 }
 #headerFrame{
-    margin-bottom: 64px;
+    margin-bottom: 30px;
 }
 #headerContentFrame{
     display: inline-block;
